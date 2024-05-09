@@ -31,7 +31,7 @@ class Page extends BaseController
             [
                 [
                     'tipe' => 'Rumah',
-                    'alamat' => 'peterongan',
+                    'alamat' => 'Diwek',
                     'kota' => 'Jombang',
                 ],
                 [
